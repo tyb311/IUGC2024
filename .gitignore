@@ -1,0 +1,5 @@
+*.pt
+*pycache*
+*idea*
+*.avi
+*.png
